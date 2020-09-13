@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.app__form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.app__input {
+  margin: 20px;
+}
+.app__textarea {
+  margin: 0px 20px;
+}
+.app__button {
+  margin: 20px auto;
+  width: fit-content;
+}

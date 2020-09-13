@@ -1,0 +1,28 @@
+{
+  "name": "arjhav",
+  "version": "1.0.0",
+  "description": "This is the combined project by Arjan and Keshav",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imksav/arjhav.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imksav/arjhav/issues"
+  },
+  "homepage": "https://github.com/imksav/arjhav#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "monk": "^7.3.2",
+    "morgan": "^1.10.0"
+  }
+}
